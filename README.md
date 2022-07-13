@@ -1,8 +1,8 @@
 
 ## Co-Gen
 
-This is the code and data for the SIGIR'22 paper 
-"Structured and Natural Responses Co-generation for Conversational Search".
+This is the code and data for the SIGIR'22 paper: 
+["Structured and Natural Responses Co-generation for Conversational Search"](https://dl.acm.org/doi/abs/10.1145/3477495.3532063) by Chenchen Ye, Lizi Lizo, Fuli Feng, Wei Ji, and Tat-Seng Chua.
 
 ### Requirements
 - Python 3.6
